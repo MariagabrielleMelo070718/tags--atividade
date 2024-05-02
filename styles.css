@@ -1,0 +1,78 @@
+body {
+    background-image: url('fotos/house-of-the-dragon-young-princess-rhaenyra-targaryen-4k-wallpaper-uhdpaper.com-964@0@g.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: rgba(255, 11, 11, 0.8); /* Cor do texto transparente */
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7); /* Fundo do cabeçalho com transparência */
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: rgba(255, 255, 255, 0.8); /* Cor do texto transparente */
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: rgba(255, 69, 0, 0.8); /* Cor do texto ao passar o mouse */
+}
+
+#content {
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7); /* Fundo da seção com transparência */
+    margin-bottom: 20px;
+}
+
+
+aside {
+    padding: 20px;
+    background-color:  rgba(0, 0, 0, 0.7); /* Fundo do aside com transparência */
+}
+
+.image-gallery {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-gallery img {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.7); /* Fundo do rodapé com transparência */
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.8); /* Cor do texto transparente no rodapé */
+    text-align: center;
+}
+
+footer a {
+    color: rgba(255, 255, 255, 0.8); /* Cor do texto transparente */
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: rgba(255, 69, 0, 0.8); /* Cor do texto ao passar o mouse */
+}
